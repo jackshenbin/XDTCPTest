@@ -1,0 +1,8 @@
+F:\bb\P4workspace\MyProgram\XDTCPTest\XDTCPTest\bin\Debug\XDTCPTest.exe
+F:\bb\P4workspace\MyProgram\XDTCPTest\XDTCPTest\bin\Debug\XDTCPTest.pdb
+F:\bb\P4workspace\MyProgram\XDTCPTest\XDTCPTest\obj\Debug\XDTCPTest.csprojResolveAssemblyReference.cache
+F:\bb\P4workspace\MyProgram\XDTCPTest\XDTCPTest\obj\Debug\XDTCPTest.Properties.Resources.resources
+F:\bb\P4workspace\MyProgram\XDTCPTest\XDTCPTest\obj\Debug\XDTCPTest.csproj.GenerateResource.Cache
+F:\bb\P4workspace\MyProgram\XDTCPTest\XDTCPTest\obj\Debug\XDTCPTest.exe
+F:\bb\P4workspace\MyProgram\XDTCPTest\XDTCPTest\obj\Debug\XDTCPTest.pdb
+F:\bb\P4workspace\MyProgram\XDTCPTest\XDTCPTest\obj\Debug\XDTCPTest.Form1.resources
